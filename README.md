@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav_p_titambe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-titambe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranav_titambe8) 
 
-<h2 align="left">Hi 👋! My name is Pranav Titambe and I'm a Full Stack Web Developer, from India, currently undergrad at VESIT</h2>
+
 
 ###
 
