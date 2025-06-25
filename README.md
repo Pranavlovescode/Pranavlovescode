@@ -162,11 +162,6 @@ src="https://img.shields.io/github/followers/Pranavlovescode?logo=github&style=f
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
 </picture>
 </a> &nbsp;
-<a href="https://leetcode.com/u/hunter_sung/" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" />
-</picture>
-</a> &nbsp;
 
 ### Badges
 #### My GitHub Stats
