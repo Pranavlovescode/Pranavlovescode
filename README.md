@@ -88,9 +88,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg" />
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranavlovescode/Pranavlovescode/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranavlovescode/Pranavlovescode/output/pacman-contribution-graph.svg" />
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Pranavlovescode/Pranavlovescode/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
